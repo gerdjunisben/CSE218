@@ -1,0 +1,2 @@
+All the sorts have the same efficiency of O(N^2) while sequential search has an efficiency of O(N) and
+finally binary search has an efficiency of O(log2N)

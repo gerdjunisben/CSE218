@@ -1,0 +1,10 @@
+Array  0 || Elements   50 || Time        100 nanos
+Array  1 || Elements  150 || Time        230 nanos
+Array  2 || Elements  250 || Time        370 nanos
+Array  3 || Elements  350 || Time        519 nanos
+Array  4 || Elements  450 || Time        719 nanos
+Array  5 || Elements  550 || Time        880 nanos
+Array  6 || Elements  650 || Time       1090 nanos
+Array  7 || Elements  750 || Time       1190 nanos
+Array  8 || Elements  850 || Time       1400 nanos
+Array  9 || Elements  950 || Time       1440 nanos

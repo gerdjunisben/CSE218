@@ -1,0 +1,3 @@
+Reading the file has an efficiency of O(N^2)
+The generation of the passage has an efficiency of O(N^2)
+

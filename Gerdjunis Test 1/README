@@ -1,0 +1,25 @@
+1)What is the Big O time complexity evaluated?
+Big O time complexity is evaluated by the average amounts of swaps and comparisons a method has to do.
+
+2)What is the Big O time complexity for sequential search?
+The Big O time complexity for a sequential search is N/2.
+
+3)What is the Big O time complexity for binary search?
+The Big O time complexity for a sequential search is log2(N) ("log base 2 N")
+
+4)What is the Big O time complexity for bubble sort, insertion sort and selection sort, respectively?
+Bubble, insertion and selection sort share a Big O time complexity of N^2, but if the elements are unsorted
+then insertion sort has a Big O time complexity of O(N)
+
+5)What are the differences in Big O complexity values among the three.
+Bubble sort has an efficiency of ((N^2)/2) + ((N^2)/4), selections sort has an efficiency of ((N^2)/2) + N-1
+and insertion sort has an efficiency of ((N^2)/4) unless the elements are already sorted then it has an 
+efficiency of 3(N-1). So we simplify the 3 sort's efficiencies as N^2 but in reality bubble is the worst and 
+insertion is the best.
+
+2b)I believe the Big O time complexity is O(N) since the time increases proportionally to the elements. So
+100 more elements took an extra 100 nanos, though not that exact.
+
+2b2)As the method went through the elements the time appears to have leveled off making me think it has a Big O
+time complexity of log2N (other than the weird spike on array 5 that I cannot explain).
+

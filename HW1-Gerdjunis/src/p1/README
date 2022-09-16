@@ -1,0 +1,8 @@
+b)
+It appears that the  runtime increases the more elements the method goes through 
+(this may not always be the case but it is more likely than not)
+additionally the runtime seemed to go up around 10,000 nano seconds for every additional 50 elements
+
+c)
+It seems that runtime increases but levels off the more elements you add which makes sense considering
+binary search has an efficiency of O(Log2n)

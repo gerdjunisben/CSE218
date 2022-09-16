@@ -1,0 +1,40 @@
+Elements :   50, Sequential :    719 , Binary :    465 
+
+Elements :  100, Sequential :    585 , Binary :    140 
+
+Elements :  150, Sequential :    650 , Binary :    169 
+
+Elements :  200, Sequential :    570 , Binary :    130 
+
+Elements :  250, Sequential :    569 , Binary :    130 
+
+Elements :  300, Sequential :    840 , Binary :    630 
+
+Elements :  350, Sequential :    624 , Binary :    185 
+
+Elements :  400, Sequential :    575 , Binary :    165 
+
+Elements :  450, Sequential :    605 , Binary :    164 
+
+Elements :  500, Sequential :    580 , Binary :    190 
+
+Elements :  550, Sequential :    825 , Binary :    200 
+
+Elements :  600, Sequential :    515 , Binary :    155 
+
+Elements :  650, Sequential :    530 , Binary :    530 
+
+Elements :  700, Sequential :    600 , Binary :    150 
+
+Elements :  750, Sequential :    560 , Binary :    140 
+
+Elements :  800, Sequential :    550 , Binary :    175 
+
+Elements :  850, Sequential :    595 , Binary :    145 
+
+Elements :  900, Sequential :    590 , Binary :    155 
+
+Elements :  950, Sequential :    600 , Binary :    170 
+
+Elements : 1000, Sequential :    550 , Binary :    150 
+
